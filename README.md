@@ -1,7 +1,7 @@
 Coturn TURN server Docker image
 ===============================
 
-[![GitHub release](https://img.shields.io/github/release/killua99/coturn-docker-image.svg)][![Build Status](https://travis-ci.com/killua99/coturn-docker-image.svg?branch=master)](https://travis-ci.com/killua99/coturn-docker-image) [![Docker Pulls](https://img.shields.io/docker/pulls/killua99/coturn.svg)](https://hub.docker.com/r/killua99/coturn)
+![GitHub release](https://img.shields.io/github/release/killua99/coturn-docker-image.svg)[![Build Status](https://travis-ci.com/killua99/coturn-docker-image.svg?branch=master)](https://travis-ci.com/killua99/coturn-docker-image) [![Docker Pulls](https://img.shields.io/docker/pulls/killua99/coturn.svg)](https://hub.docker.com/r/killua99/coturn)
 
 
 
